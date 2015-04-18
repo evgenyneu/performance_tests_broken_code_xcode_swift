@@ -6,6 +6,8 @@ See [MyPerformanceTestTests.swift](https://github.com/evgenyneu/performance_test
 
 ## Expected behaviour
 
+Shows performance annotation in the code editor after running tests with `measureBlock` function.
+
 <img src='https://raw.githubusercontent.com/evgenyneu/performance_tests_broken_code_xcode_swift/master/graphics/test_performance_annotation.png' width='150' alt='Performance annoatation is missing'>
 
 ## Actual behaviour
