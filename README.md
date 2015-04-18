@@ -7,7 +7,7 @@ See `testPerformanceExample` test.
 
 ## Expected behaviour
 
-![Performance annoatation is missing](https://raw.githubusercontent.com/evgenyneu/performance_tests_broken_code_xcode_swift/master/graphics/test_performance_annotation.png)
+<img src='https://raw.githubusercontent.com/evgenyneu/performance_tests_broken_code_xcode_swift/master/graphics/test_performance_annotation.png' with='199' alt='Performance annoatation is missing'>
 
 ## Actual behaviour
 
