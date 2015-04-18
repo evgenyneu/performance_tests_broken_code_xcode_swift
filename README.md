@@ -2,7 +2,7 @@
 
 In Xcode 6.3 performance test with `measureBlock` function does not show the performance result annotation.
 
-See `testPerformanceExample` test.
+See `MyPerformanceTestTests.swift`(https://github.com/evgenyneu/performance_tests_broken_code_xcode_swift/blob/master/MyPerformanceTestTests/MyPerformanceTestTests.swift) test.
 
 ## Expected behaviour
 
