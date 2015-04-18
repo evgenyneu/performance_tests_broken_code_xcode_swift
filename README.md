@@ -15,7 +15,8 @@ Performance annotation is missing. It does not let you set the test performance 
 
 ## Reference
 
-[Testing in Xcode WWDC 2014 video](https://developer.apple.com/videos/wwdc/2014/)
+* [Stackoverflow question](http://stackoverflow.com/questions/29712469/how-can-i-use-swift-performance-tests-in-xcode-6-3)
+* [Testing in Xcode WWDC 2014 video](https://developer.apple.com/videos/wwdc/2014/)
 
 
   [1]: http://i.stack.imgur.com/GTPyF.png
