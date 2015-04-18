@@ -12,3 +12,10 @@ See [MyPerformanceTestTests.swift](https://github.com/evgenyneu/performance_test
 
 Performance annotation is missing. It does not let you set the test performance baseline and verify its performance.
 
+
+## Reference
+
+[Testing in Xcode WWDC 2014 video](https://developer.apple.com/videos/wwdc/2014/)
+
+
+  [1]: http://i.stack.imgur.com/GTPyF.png
